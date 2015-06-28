@@ -1,0 +1,24 @@
+{
+  "name": "project1",
+  "version": "0.0.1",
+  "description": "Projects in AngularJS - Learn by building 10 Projects [1]",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricbates/projects-in-angular-one.git"
+  },
+  "keywords": [
+    "git",
+    "node.js",
+    "angular.js"
+  ],
+  "author": "Rick Bates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricbates/projects-in-angular-one/issues"
+  },
+  "homepage": "https://github.com/ricbates/projects-in-angular-one"
+}
